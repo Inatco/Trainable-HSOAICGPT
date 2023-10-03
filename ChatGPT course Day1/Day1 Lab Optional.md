@@ -51,8 +51,9 @@ One of the major updates of ChatGPT was the addition of third-party plugins, thi
 Another great beta feature provided is advanced data analysis, let's try it out
 
 1. Download the provided excel file to use with ChatGPT, or use any other excel file of your choice to analyse the contents.
-2. From the top of the screen, hover over 'GPT-4' and select `Advanced Data Analysis`
-3. Drag and drop the excel file into the chat to upload it, and start asking questions
+   (file path: data/data_rdd.csv)
+3. From the top of the screen, hover over 'GPT-4' and select `Advanced Data Analysis`
+4. Drag and drop the excel file into the chat to upload it, and start asking questions
    ![ChatGPT settings](media/advanced-data-analysis.png)
 
 What just happened is mind-blowing, ChatGPT was able to recognize that this file is using 'ISO-8859-f' encoding and used that knowledge to read the file

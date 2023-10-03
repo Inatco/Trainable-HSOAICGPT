@@ -1,5 +1,3 @@
-![image](https://github.com/Inatco/Trainable-HSOAICGPT/assets/101722219/d7055c4f-4515-4dea-b45d-819bdff748d5)# ChatGPT Lab Guide
-
 Welcome to the ChatGPT Lab! This guide will walk you through the process of creating an account, getting familiar with the interface, exploring functionalities and settings, experimenting with different prompts, and even building a business model with the help of AI.
 
 ## Step 1: Creating Your Account

@@ -60,7 +60,7 @@ Another great beta feature provided is advanced data analysis, let's try it out
 3. Drag and drop the excel file into the chat to upload it, and start asking questions
    ![ChatGPT Data Analysis](media/advanced-data-analysis.png)
 
-What just happened is mind-blowing, ChatGPT was able to recognize that this file is using 'ISO-8859-f' encoding and used that knowledge to read the file
+What just happened is mind-blowing, ChatGPT was able to recognize that this file is using 'ISO-8859-1' encoding and used that knowledge to read the file
 
 4. Next ask ChatGPT to provide a summary of the data in the file
 

@@ -5,13 +5,15 @@ Welcome to the ChatGPT Lab! This guide will walk you through the process of crea
 Let's begin by setting up your ChatGPT account:
 
 1. Go to the [ChatGPT website](https://www.openai.com/chatgpt/).
-2. Click on the "Try ChatGPT" button, then click on "Sign Up".
+2. Click on the "Try ChatGPT" button.
    ![OpenAI HomePage](media/OpenAI-homepage.png)
+3. In the following page, click on `Sign Up`
    ![OpenAI HomePage](media/OpenAI-homepage2.png)
 4. Fill in your email and create a password.
    ![OpenAI Signup](media/OpenAI-signup.png)
-5. Check your email for a verification link and click on it.
+5. You will be sent a verification link to your email.
    ![OpenAI verification](media/OpenAI-Verification.png)
+6. Check your email for a verification link and click on it.
    ![OpenAI verification](media/Email-Verification.png)
 
 ## Step 2: Getting Comfortable with the Interface
@@ -20,10 +22,12 @@ Now that you have an account, let's explore the ChatGPT interface:
 
 1. Log in using your newly created account.
    ![OpenAI Login](media/OpenAI-homepage-login.png)
+2. Specify 'ChatGPT' from the following page
    ![OpenAI Login](media/OpenAI-Login-ChatGPT.png)
-2. Take a look around to see where things are located.
+3. Take a look around to see where things are located.
+   Note that 'GPT-4' is locked at the top of the page, this is because the GPT-4 model is only available to ChatGPT Plus users.
    ![ChatGPT interface](media/ChatGPT-home-interface.png)
-3. Familiarize yourself with the layout of the dashboard, including navigation menus and options.
+4. Familiarize yourself with the layout of the dashboard, including navigation menus and options.
 
 ## Step 3: Exploring Functionalities and Settings
 

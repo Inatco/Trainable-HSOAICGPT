@@ -56,7 +56,7 @@ One of the major updates of ChatGPT was the addition of third-party plugins, thi
 Another great beta feature provided is advanced data analysis, let's try it out
 
 1. Download the provided excel file to use with ChatGPT, or use any other excel file of your choice to analyse the contents.
-   From [data/data_rdd.csv](https://www.openai.com/chatgpt/](https://github.com/Inatco/Trainable-HSOAICGPT/blob/main/ChatGPT%20course%20Day1/data/data_rdd.csv).
+   From [data/data_rdd.csv](https://www.openai.com/chatgpt/](https://github.com/Inatco/Trainable-HSOAICGPT/blob/main/ChatGPT%20course%20Day1/data/data_rdd.csv/).
 2. From the top of the screen, hover over 'GPT-4' and select `Advanced Data Analysis`
    ![ChatGPT Interface Menu](media/ChatGPT-menu3.png)
 3. Drag and drop the excel file into the chat to upload it, and start asking questions

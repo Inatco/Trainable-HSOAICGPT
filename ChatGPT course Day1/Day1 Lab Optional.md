@@ -1,4 +1,6 @@
-> Note that this lab requires a ChatGPT Plus subscription in order to use GPT-4 and the beta features.
+```
+Note that this lab requires a ChatGPT Plus subscription in order to use GPT-4 and the beta features.
+```
 
 Welcome to the optional ChatGPT Lab! This guide will walk you through exploring more advanced functionalities of GPT-4, like real-time data search with Bing, advanced task completion with plugins, and advanced data analysis
 

@@ -36,6 +36,7 @@ Now that you have an account, let's explore the ChatGPT interface:
 
 3. From the bottom-left menu, select 'Custom Instructions' and click 'OK'
 4. Here we can specify custom instructions to ChatGPT like some context about who we are and what are our goals, in addition to describing the model itself, like what is it called and what it should refer to you as.
+   Make sure to enable 'Enable for new chats' in order to set instructions.
    ![ChatGPT custom instructions](media/ChatGPT-CustomInstructions.png)
 
 ## Step 4: Trying Different Chat Prompts

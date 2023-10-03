@@ -136,5 +136,5 @@ Prompts are how you talk to ChatGPT. Let's give it a try:
 
 Congratulations! You've completed the ChatGPT Lab Course and gained valuable insights into utilizing AI for enhancing business processes. Your understanding of ChatGPT and AI's potential has expanded, enabling you to apply these skills in various real-world scenarios. Happy experimenting! 🚀
 
-Explore ChatGPT in more detail in this [Optional Lab](https://github.com/Inatco/Trainable-HSOAICGPT/blob/main/ChatGPT%20course%20Day1/Day1%20Lab%20Optional.md).
+Explore ChatGPT in more detail in this [Optional Lab](/Day1 Lab Optional.md).
 This lab is optional because it requires a ChatGPT-Plus subscription, we will explore GPT-4 features, including real-time data, add-on plugins, and advanced data analysis...

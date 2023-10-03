@@ -1,4 +1,4 @@
-# ChatGPT Lab Guide
+![image](https://github.com/Inatco/Trainable-HSOAICGPT/assets/101722219/d7055c4f-4515-4dea-b45d-819bdff748d5)# ChatGPT Lab Guide
 
 Welcome to the ChatGPT Lab! This guide will walk you through the process of creating an account, getting familiar with the interface, exploring functionalities and settings, experimenting with different prompts, and even building a business model with the help of AI.
 
@@ -7,11 +7,12 @@ Welcome to the ChatGPT Lab! This guide will walk you through the process of crea
 Let's begin by setting up your ChatGPT account:
 
 1. Go to the [ChatGPT website](https://www.openai.com/chatgpt/).
-2. Click on the "Sign Up" or "Create Account" button.
+2. Click on the "Try ChatGPT" button, then click on "Sign Up".
    ![OpenAI HomePage](media/OpenAI-homepage.png)
-3. Fill in your email and create a password.
+   ![OpenAI HomePage](media/OpenAI-homepage2.png)
+4. Fill in your email and create a password.
    ![OpenAI Signup](media/OpenAI-signup.png)
-4. Check your email for a verification link and click on it.
+5. Check your email for a verification link and click on it.
    ![OpenAI verification](media/OpenAI-Verification.png)
    ![OpenAI verification](media/Email-Verification.png)
 
@@ -25,14 +26,17 @@ Now that you have an account, let's explore the ChatGPT interface:
 2. Take a look around to see where things are located.
    ![ChatGPT interface](media/ChatGPT-home-interface.png)
 3. Familiarize yourself with the layout of the dashboard, including navigation menus and options.
-   ![ChatGPT interface](media/ChatGPT-interface.png)
 
 ## Step 3: Exploring Functionalities and Settings
 
-1. Navigate to the settings section of the interface.
+1. Navigate to the settings section of the interface, by clicking on your email in the bottom-left, then Settings.
    ![ChatGPT settings](media/ChatGPT-settings.png)
-2. Explore option like changing the theme
+2. Explore options like changing the theme, you can also clear all your chat history from this menu
    ![ChatGPT theme](media/ChatGPT-ChangeTheme.png)
+
+3. From the bottom-left menu, select 'Custom Instructions' and click 'OK'
+4. Here we can specify custom instructions to ChatGPT like some context about who we are and what are our goals, in addition to describing the model itself, like what is it called and what it should refer to you as.
+   ![ChatGPT custom instructions](media/ChatGPT-CustomInstructions.png)
 
 ## Step 4: Trying Different Chat Prompts
 
@@ -128,3 +132,6 @@ Prompts are how you talk to ChatGPT. Let's give it a try:
 - Reach out to OpenAI's support or online communities if you need help or have questions.
 
 Congratulations! You've completed the ChatGPT Lab Course and gained valuable insights into utilizing AI for enhancing business processes. Your understanding of ChatGPT and AI's potential has expanded, enabling you to apply these skills in various real-world scenarios. Happy experimenting! 🚀
+
+Explore ChatGPT in more detail in this [Optional Lab]([https://www.openai.com/chatgpt/](https://github.com/Inatco/Trainable-HSOAICGPT/blob/main/ChatGPT%20course%20Day1/Day1%20Lab%20Optional.md)).
+This lab is optional because it requires a ChatGPT-Plus subscription, we will explore GPT-4 features, including real-time data, add-on plugins, and advanced data analysis...

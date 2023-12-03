@@ -5,47 +5,48 @@ Welcome to the ChatGPT Lab! This guide will walk you through the process of crea
 Let's begin by setting up your ChatGPT account:
 
 1. Go to the [ChatGPT website](https://www.openai.com/chatgpt/).
-2. Click on the "Try ChatGPT" button.
-   ![OpenAI HomePage](media/OpenAI-homepage.png)
+2. Click on the `Try ChatGPT` button.
+   ![OpenAI HomePage](media/openai-homepage.png)
 3. In the following page, click on `Sign Up`
-   ![OpenAI HomePage](media/OpenAI-homepage2.png)
-4. Fill in your email and create a password.
-   ![OpenAI Signup](media/OpenAI-signup.png)
+   ![OpenAI HomePage](media/openai-homepage2.png)
+4. Fill in your email and create a password, or sign up directly with one of the 3 options below.
+   ![OpenAI Signup](media/openai-signup1new.png)
+   
 5. You will be sent a verification link to your email.
-   ![OpenAI verification](media/OpenAI-Verification.png)
+   ![OpenAI verification](media/openai-verificationnew.png)
 6. Check your email for a verification link and click on it.
-   ![OpenAI verification](media/Email-Verification.png)
+   ![OpenAI verification](media/email-verification.png)
 
 ## Step 2: Getting Comfortable with the Interface
 
 Now that you have an account, let's explore the ChatGPT interface:
 
 1. Log in using your newly created account.
-   ![OpenAI Login](media/OpenAI-homepage-login.png)
-2. Specify 'ChatGPT' from the following page
-   ![OpenAI Login](media/OpenAI-Login-ChatGPT.png)
+   ![OpenAI Login](media/openai-homepage-login.png)
+2. Specify 'ChatGPT' from the following page.
+   ![OpenAI Login](media/openai-login-chatgpt.png)
 3. Take a look around to see where things are located.
-   Note that 'GPT-4' is locked at the top of the page, this is because the GPT-4 model is only available to ChatGPT Plus users.
-   ![ChatGPT interface](media/ChatGPT-home-interface.png)
+   Note that 'GPT-4' is locked at the top of the page, this is because the GPT-4 model is only available to ChatGPT Plus users
+   ![ChatGPT interface](media/chatgpt-home-interfacenew.png)
 4. Familiarize yourself with the layout of the dashboard, including navigation menus and options.
 
 ## Step 3: Exploring Functionalities and Settings
 
-1. Navigate to the settings section of the interface, by clicking on your email in the bottom-left, then Settings.
-   ![ChatGPT settings](media/ChatGPT-settings.png)
+1. Navigate to the settings section of the interface, by clicking on your name in the bottom-left, then Settings.
+   ![ChatGPT settings](media/chatgpt-settingsnew.png)
 2. Explore options like changing the theme, you can also clear all your chat history from this menu
-   ![ChatGPT theme](media/ChatGPT-ChangeTheme.png)
+   ![ChatGPT theme](media/chatgpt-changethemenew.png)
 
 3. From the bottom-left menu, select 'Custom Instructions' and click 'OK'
 4. Here we can specify custom instructions to ChatGPT like some context about who we are and what are our goals, in addition to describing the model itself, like what is it called and what it should refer to you as.
    Make sure to enable 'Enable for new chats' in order to set instructions.
-   ![ChatGPT custom instructions](media/ChatGPT-CustomInstructions.png)
+   ![ChatGPT custom instructions](media/chatgpt-custominstructionsnew.png)
 
 ## Step 4: Trying Different Chat Prompts
 
 Prompts are how you talk to ChatGPT. Let's give it a try:
 
-![ChatGPT Demo Conversation](media/ChatGPT-DemoConversation.png)
+![ChatGPT Demo Conversation](media/chatgpt-democonversationnew.png)
 
 1. Start by entering a simple prompt in the input box, such as "Tell me a joke."
 2. Observe the AI's response in the output area.
@@ -83,21 +84,18 @@ Prompts are how you talk to ChatGPT. Let's give it a try:
 1. Visit the OpenAI Playground: [https://platform.openai.com/playground](https://platform.openai.com/playground)
 2. This is an interactive interface to experiment with various OpenAI models, including ChatGPT.
 3. Spend some time getting familiar with the interface and features available.
-   ![Playground Home](media/OpenAI-Playground-home.png)
+   ![Playground Home](media/openai-playground-home.png)
 
-### Step 5a: Familiarize with the Playground Interface
+### Step 5a: Creating an Assistant
 
-1. Look for the text input area where you can enter prompts.
-2. Notice the options for adjusting parameters like temperature and max tokens.
-3. Experiment with different settings to observe their impact on AI-generated responses.
-   ![Playground Interface](media/OpenAI-Playground-interface.png)
-
-### Step 5b: Trying Different Prompts
-
-1. Enter prompts of varying complexity in the input box.
-2. Observe the AI's responses in the output area.
-3. Test prompts related to creative writing, problem-solving, or generating ideas.
-   ![Playground Simple Demo](media/OpenAI-Playground-SimpleDemo.png)
+1. Click on the `+ Create` button in green
+   ![Assistant creation Interface](media/openai-playground-assistant-creation.png)
+2. Specify a name for your new assistant, add some instructions and choose an available model, this will create a new GPT assistant with any personality you desire.
+3. Check `Code Interpreter` to give your assistant the ability to write and run code.
+4. Save your new assistant by clicking on `Save`.
+5. You can now chat with your new assistant! Try entering a message and click `Add and run`.
+6. Try changing the different features for your new assistant and see how the outcome can be customized.
+   ![Assistants interface](media/openai-playground-assistant-created.png)
 
 ### Example Prompts:
 
@@ -116,8 +114,7 @@ Prompts are how you talk to ChatGPT. Let's give it a try:
 - Departments: Marketing, Sales, Customer Support, Warehouse
 - Roles: Marketing Manager, Sales Representative, Customer Support Specialist, Warehouse Coordinator
 
-3. Use ChatGPT to simulate interactions within the organization.
-   ![Playground Simple Demo](media/OpenAI-Playground-BusinessDemo.png)
+3. Create a new assistant with instructions detailing the previous information.
 
 ### Example Interactions:
 
@@ -137,4 +134,4 @@ Prompts are how you talk to ChatGPT. Let's give it a try:
 Congratulations! You've completed the ChatGPT Lab Course and gained valuable insights into utilizing AI for enhancing business processes. Your understanding of ChatGPT and AI's potential has expanded, enabling you to apply these skills in various real-world scenarios. Happy experimenting! 🚀
 
 Explore ChatGPT in more detail in this [Optional Lab](Day1%20Lab%20Optional.md).
-This lab is optional because it requires a ChatGPT-Plus subscription, we will explore GPT-4 features, including real-time data, add-on plugins, and advanced data analysis...
+This lab is optional because it requires a ChatGPT-Plus subscription, we will explore GPT-4 features, including real-time data, add-on plugins, GPTs, and advanced data analysis...
